@@ -131,6 +131,8 @@ p.note { display: none; }
 <h2><span class="yellow">死亡直後の状態です</span></h2>
 <a href="20250121_101.JPG" target="_blank"><img src="20250121_101.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250121_102.JPG" target="_blank"><img src="20250121_102.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">救急車が到着して状態を調べます</span></h2>
 <a href="20250121_103.JPG" target="_blank"><img src="20250121_103.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">赤エプロンの女性が検死官</span></h2>

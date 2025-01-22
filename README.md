@@ -117,7 +117,7 @@ p.note { display: none; }
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="QR_2025Jan21_.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S.Hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/01/21、＊＊さん ご逝去!!!</marquee></span></h1>
@@ -171,7 +171,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/01/22 S.Hada @ChiangRai</p>
+<p>Copyright 2025/01/22 alis @ChiangRai</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
